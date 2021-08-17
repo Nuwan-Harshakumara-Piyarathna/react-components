@@ -8,9 +8,9 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/" exact component={ChatBox} />
           <Route path="/table" exact component={EditableTable} />
-          <Route path="/messanger" exact component={ChatBox} />
+          <Route path="/messanger" exact component={Home} />
         </Switch>
       </Router>
     </>
