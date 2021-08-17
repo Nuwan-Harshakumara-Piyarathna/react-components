@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Enumber": "E/16/286",
+    "Name": "Nuwan Harsha",
+    "Email": "e16286@eng.pdn.ac.lk"
+  },
+  {
+    "id": 2,
+    "Enumber": "E/16/386",
+    "Name": "Rusiru Thushara",
+    "Email": "e16386@eng.pdn.ac.lk"
+  },
+  {
+    "id": 3,
+    "Enumber": "E/16/275",
+    "Name": "Hashan Eranga",
+    "Email": "e16275@eng.pdn.ac.lk"
+  },
+  {
+    "id": 4,
+    "Enumber": "E/16/242",
+    "Name": "Saubhagya Munasinghe",
+    "Email": "e16242@eng.pdn.ac.lk"
+  },
+  {
+    "id": 5,
+    "Enumber": "E/16/399",
+    "Name": "Erandana Wijerathne",
+    "Email": "e16399@eng.pdn.ac.lk"
+  }
+]
